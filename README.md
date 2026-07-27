@@ -1,12 +1,21 @@
 # 💰 Personal Expense Tracker
 
+![Python](https://img.shields.io/badge/Python-3.14-blue?logo=python)
+![Streamlit](https://img.shields.io/badge/Streamlit-Deployed-red?logo=streamlit)
+![SQLite](https://img.shields.io/badge/Database-SQLite-blue?logo=sqlite)
+![License](https://img.shields.io/badge/License-MIT-green)
+
 A modern **Personal Expense Tracker** built with **Python, Streamlit, SQLite, Pandas, and Matplotlib**.
 
-This application helps users record daily expenses, monitor spending habits, visualize financial data, and export reports.
+This application enables users to record daily expenses, organize spending by category, visualize financial trends through interactive charts, and export expense data as CSV reports. It demonstrates Python application development, database integration, and data visualization using Streamlit and SQLite.
 
----
+## 🌐 Live Demo
 
-## 📸 Application Preview
+🔗 **Live Application:** https://expense-tracker-6f9bu8kw7q3i7ymdytb4mu.streamlit.app/
+
+## 📂 GitHub Repository
+https://github.com/TanyaNtombi
+
 
 ## 📸 Application Preview
 
@@ -21,13 +30,6 @@ This application helps users record daily expenses, monitor spending habits, vis
 ### Analytics
 
 ![Analytics](assets/analytics.png)
-
-### Dashboard
-![Dashboard](assets/dashboard.png)
-
-### Analytics
-![Analytics](assets/analytics.png)
-
 ---
 
 ## ✨ Features
@@ -82,7 +84,7 @@ Expense Tracker/
 ### Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/expense-tracker.git
+git clone https://github.com/TanyaNtombi/Expense-Tracker
 ```
 
 ### Navigate into the project
@@ -131,6 +133,17 @@ Users can download all filtered expense records as a CSV file.
 
 ---
 
+## 💡 Skills Demonstrated
+
+- Python Programming
+- Streamlit Application Development
+- SQLite Database Design
+- Data Analysis with Pandas
+- Data Visualization with Matplotlib
+- Git & GitHub Version Control
+- Modular Software Architecture
+- CSV Data Export
+
 ## 🔮 Future Improvements
 
 - 🔐 User authentication
@@ -149,8 +162,7 @@ Users can download all filtered expense records as a CSV file.
 
 Bachelor of Information Science (BIS) Graduate
 
-Passionate about Software Engineering, Data Analytics, and Building Practical Applications with Python.
-
+Aspiring Software Engineer with a strong interest in Python development, data analytics, software engineering, and cloud technologies. Passionate about building practical applications that solve real-world problems.
 ---
 
 ## 📄 License
